@@ -18,8 +18,8 @@
   "16": "o",
   "17": "n",
   "facebookAccount": {
-    "email": "",
-    "password": "",
+    "email": "hosenmdsakhoyat@gmail.com",
+    "password": "aibot009+",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -35,7 +35,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61566369721724"
+    "100072320790038"
   ],
   "whiteListMode": {
     "enable": false,
@@ -44,7 +44,7 @@
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "ADRIYAN 卝 AYAN࿐ツ",
+  "nickNameBot": "Ex 卝 বয়ফ্রেন্ডヅ࿐ツ",
   "prefix": "/",
   "ArYanapi": "https://aryan-rest-api.onrender.com",
   "api": "",
